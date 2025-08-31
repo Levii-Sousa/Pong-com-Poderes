@@ -42,7 +42,8 @@ Jogo Pong desenvolvido em **Java**, com **PowerUps estratégicos** e **efeitos v
 
 ## Screenshot do Jogo
 
-![Pong Screenshot](link_para_screenshot.png)
+![Pong Screenshot](<img width="915" height="675" alt="PrintPong" src="https://github.com/user-attachments/assets/b953bfa0-18af-4203-a6da-3bdf4c8164f6" />
+)
 
 ---
 
